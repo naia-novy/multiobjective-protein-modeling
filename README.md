@@ -248,4 +248,4 @@ If you use this code or data, please cite the Cell Systems article when availabl
 
 ## License
 
-A license file is not currently included. Add a license before public release to define permitted reuse.
+This repository is open source under the MIT License. See `LICENSE` for the full license text.
